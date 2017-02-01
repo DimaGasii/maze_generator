@@ -4,7 +4,7 @@ var grid = [];
 var step = 0;
 var current;
 var stack = [];
-
+//новый commit
 function setup() {
     createCanvas(600,600);
     background(51);
